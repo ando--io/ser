@@ -1,0 +1,7 @@
+
+*.test
+*.out
+vendor/
+go.work
+.idea
+.env
